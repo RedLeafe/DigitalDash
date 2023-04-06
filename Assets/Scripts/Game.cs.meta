@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 6a53160b508598e4998640954bf29e0e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player1: {instanceID: 0}
+  - building: {fileID: 8892241374644728494, guid: 1db14eb4fbdce084bad809f94cbb85b3, type: 3}
+  - floor: {fileID: 544757878896264370, guid: b15ccfa20433ab2479203586ec212bfc, type: 3}
+  - obstacle: {fileID: 6154392439376676715, guid: 99c40ab67bbd17a458a62e61e4a2e16b, type: 3}
+  - platform: {fileID: 3584130284410459553, guid: a5a1d752039ca084e87f625781c2a395, type: 3}
+  - puddle: {fileID: 6049495213600873284, guid: 1ca020f880af99143b5223d48c174c86, type: 3}
+  - pipe: {fileID: 7184962369458747856, guid: e1f730bdf148c044ea348448d364e3e0, type: 3}
+  - bountySign: {fileID: 1549754601426724895, guid: 2e6554c7ebd9a9642ad3a8847b305611, type: 3}
+  - laserWarn: {fileID: 6101909989506973053, guid: 245df1af260505b43a865d58b3f18bb9, type: 3}
+  - telePole: {fileID: 5004134593978366796, guid: 5b766aab00daf12418ef42a8faf6185f, type: 3}
+  - birdie: {fileID: 6268974540760512594, guid: 214d9824fa49722428f50b3736d81167, type: 3}
+  - barbedFence: {fileID: 1835639061901616943, guid: 670124eb551d77c4c91ea1634586e200, type: 3}
+  - powerGenerator: {fileID: 5724832884118124451, guid: b50f3486b6b3faa44b8fba08db5f28b3, type: 3}
+  - cyberTruck: {fileID: 6268974540760512594, guid: 214d9824fa49722428f50b3736d81167, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

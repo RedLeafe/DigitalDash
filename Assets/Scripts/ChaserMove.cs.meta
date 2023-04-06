@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dfe9a65c1a890c345a02be2c261d589a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - laserWarning: {fileID: 6101909989506973053, guid: 245df1af260505b43a865d58b3f18bb9, type: 3}
+  - laserbeam: {fileID: 3808236815902074804, guid: 73ab06ebfd9fb824cbb06f6f3e57ce9f, type: 3}
+  - chaser: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

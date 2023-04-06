@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3217985ef61a35b4891dbf79ba3a872d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - spriteRenderer: {instanceID: 0}
+  - newSprite: {fileID: 21300000, guid: be66b0319e1ce42139de849803d194a7, type: 3}
+  - GameOver: {instanceID: 0}
+  - Score: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
